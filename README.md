@@ -28,3 +28,8 @@ This project runs in two parts:
 │                        │         │  • JSON parsing        │
 └─────────────────────┘         └──────────────────────┘
 ```
+<img width="1835" height="897" alt="image" src="https://github.com/user-attachments/assets/fa2e9301-4dd1-441a-94f0-7874d5211833" />
+<img width="1746" height="890" alt="image" src="https://github.com/user-attachments/assets/86060694-7e86-49e5-a0c4-c174d66c7605" />
+<img width="1800" height="857" alt="image" src="https://github.com/user-attachments/assets/6928ea26-e0b1-4241-a56d-46d1681caf50" />
+
+
